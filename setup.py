@@ -71,7 +71,7 @@ def read(fname):
 try:
     setup(
       name='graphite-web',
-      version='1.2.0',
+      version='1.2.0+awingu.1',
       url='http://graphiteapp.org/',
       author='Chris Davis',
       author_email='chrismd@gmail.com',
